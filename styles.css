@@ -24,7 +24,7 @@ h1 {
   font-family: 'Sacramento', cursive;
   font-size: 4em;
   color: #66BFBF;
-  animation-timing-function: ease-in-out 2s;
+
 }
 
 .p1 {
@@ -35,7 +35,7 @@ h1 {
   font-weight: normal;
   line-height: 1.5;
   padding-bottom: 10px;
-  animation-timing-function: ease-in-out 2s;
+
 }
 
 .p {
